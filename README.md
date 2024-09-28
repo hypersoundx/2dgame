@@ -1,2 +1,3 @@
 # 2dgame
-In development
+Currently in development
+Expected first release: Jan 2025
